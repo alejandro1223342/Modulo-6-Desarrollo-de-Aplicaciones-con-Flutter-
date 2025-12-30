@@ -1,0 +1,17 @@
+Comando
+Windows + shift + p 
+
+Dependencias
+
+dependencies:
+  flutter:
+    sdk: flutter
+  sqflite: ^2.3.3
+  sqflite_common_ffi: ^2.4.0+1
+  path: ^1.9.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  test: ^1.26.0
