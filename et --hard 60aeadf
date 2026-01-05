@@ -1,0 +1,15 @@
+[33md6542b6[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{0}: reset: moving to 4abd9cc^
+[33m60aeadf[m HEAD@{1}: reset: moving to 60aeadf
+[33m60aeadf[m HEAD@{2}: reset: moving to 60aeadf
+[33m60aeadf[m HEAD@{3}: commit: Remove large video file from repo
+[33m2b2e908[m HEAD@{4}: commit: El video esta en rar
+[33m4abd9cc[m HEAD@{5}: commit: Cambios acción recargar y conexion a la base de datos firebase
+[33md6542b6[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{6}: commit: Se realiza proyecto de tareas
+[33m47d2101[m HEAD@{7}: commit: Proyecto Biblioteca
+[33m0972db9[m HEAD@{8}: commit: Repaso patron singleton
+[33mdc4650f[m HEAD@{9}: commit: Patron singleton
+[33m6828e3e[m HEAD@{10}: commit: ejemplo de Future,Async y await y reto 19 descarga y lavadora
+[33m5c902bb[m HEAD@{11}: commit: Reto 18 colecciones
+[33m86191da[m HEAD@{12}: commit: Repaso Listas,Mapas
+[33me5f7040[m HEAD@{13}: Branch: renamed refs/heads/master to refs/heads/main
+[33me5f7040[m HEAD@{15}: commit (initial): Programación con Flutter
